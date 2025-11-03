@@ -3,7 +3,6 @@ Returns the middle character of a given string.
 
 
 <h2>How it works</h2>
-How It Works
 <ul>
 <li>A variable found is initialized as an empty string.</li>
 <li>The function checks if the length of the word is even (len(word) % 2 == 0):</li>
