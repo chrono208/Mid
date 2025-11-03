@@ -1,6 +1,11 @@
 # Mid
 Returns the middle character of a given string.
 
+<h1>Overview</h1>
+The mid() function returns the middle character of a given string.<br>
+If the string has an even number of characters, it returns an empty string.<br>
+If the string has an odd number of characters, it returns the single character that sits exactly in the middle.<br>
+
 
 <h2>How it works</h2>
 <ul>
